@@ -1,0 +1,8 @@
+{
+    "linesPerScreen": 20,
+    "splitOnNewline": false,
+    "step": 1,
+    "snakeCharacter": "O",
+    "foodCharacter": "X",
+    "spaceCharacter": "."
+}

@@ -1,0 +1,20 @@
+{
+  "name": "snakebreak",
+  "version": "1.0.1",
+  "description": "A command line debugger that motivates you to avoid errors.",
+  "bin": {
+    "snake": "./snakebreak.js"
+  },
+  "keywords": [
+    "cli",
+    "tool",
+    "command-line",
+    "debugger",
+    "joke"
+  ],
+  "author": "giragon6",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^22.13.0"
+  }
+}
