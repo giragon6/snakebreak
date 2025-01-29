@@ -17,6 +17,7 @@ Controls:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
+- [Attribution](#attribution)
 - [License](#license)
 
 ## Installation
@@ -45,6 +46,10 @@ Adjust the package's settings in the config.json file.
 `snakeCharacter` (default: O) - The character to represent the snake as\
 `foodCharacter` (default: X) - The character to represent the food as\
 `spaceCharacter` (default: .) - The character to represent empty space as
+
+## Attribution
+
+This project was made with the help of GitHub Copilot, a generative AI tool.
 
 ## License
 
